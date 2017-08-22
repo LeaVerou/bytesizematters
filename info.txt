@@ -1,0 +1,7 @@
+# Contact info submission
+url: bytesizematters.com
+site_owner: Fresset Ltd
+country: Greece
+display_email: leaverou@fresset.gr
+site_name: (byte)size matters
+site_description: ByteSizeMatters is a very simple website that tells you the size of a piece of text in bytes/KB/MB/etc (whatever fits) with or without the whitespace. Mainly useful for front-end web developers, since in JavaScript or CSS, bytesize really does matter.
